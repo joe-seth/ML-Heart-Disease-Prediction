@@ -1,6 +1,7 @@
 # Heart Disease Prediction
+![heart](https://media.istockphoto.com/id/1156928011/photo/heart-attack-heart-attack-conceptual-artwork-3d-illustration.jpg?s=612x612&w=0&k=20&c=A2kWPu_dG5vmcaKcfCGA6FVRRIHRJ83R0HhlAys5fK4=)
 
-This article explores the prediction of heart disease using machine learning. We'll work with a heart disease dataset, aiming to detect the probability of a person being affected by a severe heart problem.
+This notebook explores the prediction of heart disease using machine learning. We'll work with a heart disease dataset, aiming to detect the probability of a person being affected by a severe heart problem.
 Key Takeaways
 
     Data Insight: We'll analyze the heart disease dataset to derive meaningful insights from the data.
